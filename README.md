@@ -1,4 +1,4 @@
-# Classify-male-female-by-height-weight-shoesize
+# Classify-male-female-by-height-weight-index
 This is a fairly straightforward problem and is ideal for people starting off with data science. It is a regression problem. The dataset has 500 rows and 4 columns (Gender, index, height and weight).
 
 Problem: Predict the male or female.
